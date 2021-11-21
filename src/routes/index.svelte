@@ -29,7 +29,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap" rel="stylesheet">
 </svelte:head>
 
-<div id="wrapper" class="container mx-auto mt-12" style="max-width: 900px">
+<div id="wrapper" class="container mx-auto mt-12 text-center" style="max-width: 900px">
 
 	<h1>SvelteKit has been downloaded over 10 million times</h1>
 
